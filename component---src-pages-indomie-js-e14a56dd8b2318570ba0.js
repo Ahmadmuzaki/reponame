@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby=self.webpackChunkgatsby||[]).push([[57],{4498:function(e,t,a){a.r(t);var n=a(7294);t.default=()=>n.createElement("div",null,"indomie")}}]);
+//# sourceMappingURL=component---src-pages-indomie-js-e14a56dd8b2318570ba0.js.map

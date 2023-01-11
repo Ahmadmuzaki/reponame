@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-indomie-js-e14a56dd8b2318570ba0.js","mappings":"yHAQA,UANgB,IAEZ,qC","sources":["webpack://gatsby/./src/pages/indomie.js"],"sourcesContent":["import React from 'react'\r\n\r\nconst indomie = () => {\r\n  return (\r\n    <div>indomie</div>\r\n  )\r\n}\r\n\r\nexport default indomie\r\n"],"names":[],"sourceRoot":""}
