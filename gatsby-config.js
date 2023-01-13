@@ -4,8 +4,11 @@
 module.exports = {
   pathPrefix: '/reponame',
   siteMetadata: {
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://www.ahmadmuzaki.com`,
+    title:'Ahmad Muzaki SA',
   },
 
-  plugins: [],
+  plugins: [
+    'gatsby-plugin-postcss',
+  ],
 }
